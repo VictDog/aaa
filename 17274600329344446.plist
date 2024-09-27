@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>http://121.37.24.51:9095/file/download?fileId=Fl-627686117886537728</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>url</key>
+            <string>http://121.37.24.51:9000/store/ios/17274599927313262.png</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>url</key>
+            <string>http://121.37.24.51:9000/store/ios/17274599928085626.png</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>ZX.ZXKlineDemoeh</string>
+          <key>bundle-version</key>
+          <string>1.0</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
