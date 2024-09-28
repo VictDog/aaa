@@ -11,19 +11,19 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://github.com/VictDog/aaa/blob/main/Feature.ipa</string>
+            <string>https://victdog.github.io/aaa/Feature.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
             <string>display-image</string>
             <key>url</key>
-            <string>https://github.com/VictDog/aaa/blob/main/Feature_57.png</string>
+            <string>https://victdog.github.io/aaa/Feature_57.png</string>
           </dict>
           <dict>
             <key>kind</key>
             <string>full-size-image</string>
             <key>url</key>
-            <string>https://github.com/VictDog/aaa/blob/main/Feature_512.png</string>
+            <string>https://victdog.github.io/aaa/Feature_512.png</string>
           </dict>
         </array>
         <key>metadata</key>
