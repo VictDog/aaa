@@ -40,9 +40,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Install App Subtitle</string>
+				<string>安装Feature</string>
 				<key>title</key>
-				<string>Install App Title</string>
+				<string>Feature</string>
 			</dict>
 		</dict>
 	</array>
